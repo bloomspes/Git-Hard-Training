@@ -1,3 +1,5 @@
 function test() {
-    return "tester@example.com"
+    return tester + "@example.com"
 }
+
+const tester = () => "tester"
