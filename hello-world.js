@@ -9,4 +9,7 @@ function greetings1() {
 function greetings2() {
     return "hello world"
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> f7c29d7 (second copy)
