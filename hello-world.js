@@ -9,3 +9,4 @@ function greetings1() {
 function greetings2() {
     return "hello world"
 }
+
